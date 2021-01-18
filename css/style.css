@@ -321,6 +321,14 @@ features
   line-height: 25px;
 }
 
+.whiteLink {
+  color: white;
+}
+
+a.whiteLink:hover {
+  color: white;
+}
+
 .pad-bt15 {
   padding-bottom: 15px;
 }
